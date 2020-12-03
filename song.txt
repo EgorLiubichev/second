@@ -1,1 +1,2 @@
 This is two first lines of my favorite song. 
+This is two other lines of my favorite song.
